@@ -1475,7 +1475,7 @@ console.log(newArray)
 
 ##### 2. while
 
-We use the while loop when we do not know how man iteration we go in advance.
+We use the while loop when we do not know how many iteration we go in advance.
 
 ```js
 let count = prompt('Enter a positive number: ')
